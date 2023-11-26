@@ -25,17 +25,13 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/dastan-nurgazy-uulu-169b1b235/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="30" height="30" alt="linkedin" />
     </a>
     <a href="https://web.telegram.org/a/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram group" />
     </a>
     <a href="https://www.youtube.com/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-    <a href="https://www.linkedin.com/in/dastan-nurgazy-uulu-169b1b235/" target="_blank">
-      <img src="![image](https://github.com/Dastan0307/Dastan0307/assets/109068729/37ad5165-6af4-46d2-a7f0-6d2192feee29)" width="40" height="40" alt="Linkedin
-       "/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="30" height="30" alt="Youtube"/>
     </a>
   </div>
 
