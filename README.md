@@ -1,4 +1,3 @@
-![image](https://github.com/Dastan0307/Dastan0307/assets/109068729/37ad5165-6af4-46d2-a7f0-6d2192feee29)
 # Привет, меня зовут Дастан!
 
 ---
@@ -35,7 +34,8 @@
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
     <a href="https://www.linkedin.com/in/dastan-nurgazy-uulu-169b1b235/" target="_blank">
-      <img src="![image](https://github.com/Dastan0307/Dastan0307/assets/109068729/1eba9882-278c-4163-8245-d75c502902bf)" width="40" height="40" alt="VK Badge"/>
+      <img src="![image](https://github.com/Dastan0307/Dastan0307/assets/109068729/37ad5165-6af4-46d2-a7f0-6d2192feee29)" width="40" height="40" alt="Linkedin
+       "/>
     </a>
   </div>
 
