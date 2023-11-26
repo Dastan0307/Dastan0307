@@ -15,6 +15,8 @@
 
 - :seedling: Завершил курсы по Frontend разработчику в Makers!
 
+- :seedling: Завершил курсы по Backend разработчику в Makers!
+
 - :zap: Являюсь старшим студентом на университете ОшГУ.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurgazyuuludastan@gmail.com)
