@@ -21,21 +21,18 @@
 
 Моё портфолио написан на Next: https://my-portfolio-seven-sandy-37.vercel.app/id
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurgazyuuludastan@gmail.com)
+- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurgazyuuludastan@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dastan-nurgazy-uulu-169b1b235/" target="_blank">
+    <a href="https://www.linkedin.com/in/dastan-nurgazy-uulu-33aa512a0/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="35" height="35" alt="linkedin" />
     </a>
     <a href="https://web.telegram.org/a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt="telegram group" />
-    </a>
-    <a href="https://www.youtube.com/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="35" height="35" alt="Youtube"/>
     </a>
   </div>
 
