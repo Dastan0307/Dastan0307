@@ -21,11 +21,7 @@
 
 Моё портфолио написан на Next: https://my-portfolio-seven-sandy-37.vercel.app/id
 
-- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurgazyuuludastan@gmail.com)
-
----
-
-### 🤝 Социальные сети:
+### 🤝 Социальные сети для связи со мной:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/dastan-nurgazy-uulu-33aa512a0/" target="_blank">
@@ -41,17 +37,20 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>&nbsp
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="35" height="35"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="35" height="35"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="35" height="35"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="sass/scss" alt="sass/scss" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-line-wordmark.svg" title="redux" alt="redux" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="redux" alt="redux" width="35" height="35"/>&nbsp;
 </div>
 
 ---
@@ -63,7 +62,7 @@
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | makers.com/Frontend - bootcamp                                  | 06/2022 - 10/2022 |
-| makers.com/Backend - bootcamp                                   | 08/2023 - 10/2023 |
+| makers.com/Backend Node.js - bootcamp                                   | 08/2023 - 10/2023 |
 
 
 ### 💻 Leetcode:
