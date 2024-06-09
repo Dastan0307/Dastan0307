@@ -4,7 +4,7 @@
 
 Обо мне:
 
-Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Я Frontend разработчик с +1,5 года опытом работы <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 Нравится работать с интересными, сложными проектами, не боюсь новых технологий, постоянно учусь чему-то новому и постоянно совершенствуюсь в том, что уже знаю.
 Прохожу курсы, читаю статьи, слушаю подкасты, смотрю видео с конференций по разработке
 готов много работать, осваивать новые технологии, строить успешную карьеру в IT.
@@ -18,6 +18,8 @@
 - :seedling: Завершил курсы по Backend Node.js разработчику в Makers!
 
 - :zap: Являюсь старшим студентом на университете ОшГУ.
+
+Моё портфолио написан на Next: https://my-portfolio-seven-sandy-37.vercel.app/id
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nurgazyuuludastan@gmail.com)
 
