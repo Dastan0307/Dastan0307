@@ -34,8 +34,6 @@
 
 - :seedling: Завершил курсы по Backend Node.js разработчику в Makers!
 
-- :zap: Являюсь старшим студентом на университете ОшГУ.
-
    <a href="https://my-portfolio-seven-sandy-37.vercel.app/id" target="_blank">🔗</a> Портфолио: <a href="https://my-portfolio-seven-sandy-37.vercel.app/id" target="_blank">Мои проекты</a>
 
 ### 🤝 Социальные сети для связи со мной:
